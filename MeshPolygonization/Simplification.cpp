@@ -4,7 +4,6 @@
 #include "CandidateFace.h"
 #include "Optimization.h"
 #include "Orientation.h"
-#include "Draw.h"
 
 Simplification::Simplification()
 {

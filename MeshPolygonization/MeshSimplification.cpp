@@ -3,7 +3,7 @@
 #include <fstream>
 #include <ctime>
 #include <stdlib.h>
-#include "../RPly/rply.h"
+#include "rply.h"
 #include "Planarity.h"
 #include "PlanarSegmentation.h"
 #include "StructureGraph.h"
